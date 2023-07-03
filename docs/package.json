@@ -1,0 +1,19 @@
+{
+  "name": "Paper Website",
+  "version": "0.0.1",
+  "description": "documentation",
+  "main": "index.js",
+  "authors": {
+    "name": "Immanuel",
+    "email": "username11384@gmail.com"
+  },
+  "repository": "https://github.com/Paper-Distributive/Website/Paper Website",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}

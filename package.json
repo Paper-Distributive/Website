@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.63"
   }
 }
